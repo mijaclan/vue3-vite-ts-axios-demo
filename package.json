@@ -1,0 +1,22 @@
+{
+  "name": "vue3-ts-axios-demo",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.5",
+    "axios": "^0.27.2",
+    "vue": "^3.2.25"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.4",
+    "@types/node": "^17.0.35",
+    "@typescript-eslint/eslint-plugin": "^5.26.0",
+    "@vitejs/plugin-vue": "^2.3.3",
+    "vite": "^2.9.9"
+  }
+}
